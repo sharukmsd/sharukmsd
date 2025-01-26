@@ -69,8 +69,4 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=sharukmsd&theme=radical&margin-w=15&margin-h=15)
 
-## Contributions
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sharukmsd&theme=radical)
-
 Thanks for visiting my profile! 😄
