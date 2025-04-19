@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 - 🔭 I’m currently working on [Highland Travels App](https://github.com/sharukmsd/HighlandTravelsApp)
 - 🌱 I’m learning Django and exploring new frameworks
 - 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: [Email](mailto:sharuk.msd6@gmail.com) | 📱 Mobile: +923212095300
+- 📫 How to reach me: [Email](mailto:sharuk.msd6@gmail.com) | 📱 Mobile: +923212095309
 
 ## 💻 Skills
 
